@@ -15,8 +15,10 @@ This project is a starting point for a Flutter application that tracks your habi
 
 ## Screenshots
 
-<img src="images/light.png" alt="Screenshot 1" width="500" style="display: block; margin-bottom: 20px;"/>
-<img src="images/dark.png" alt="Screenshot 2" width="500" style="display: block; margin-bottom: 20px;"/>
+<img src="images/light.png" alt="Screenshot 1" width="400"/>
+
+
+<img src="images/dark.png" alt="Screenshot 2" width="400"/>
 
 ## Installation
 
